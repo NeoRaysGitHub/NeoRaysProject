@@ -4,6 +4,8 @@
     <% %>
     
     <%! public String genWishMsg(String uname){
+
+  //java code modified
     java.util.Calendar cal=null;
     int hour=0;
     //get System date and time
