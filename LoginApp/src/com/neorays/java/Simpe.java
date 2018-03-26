@@ -16,6 +16,7 @@ public class Simpe {
 		
 
    System.out.println("mithilesh");
+   System.out.println("kumar");
 	}//main
 
 }//class
